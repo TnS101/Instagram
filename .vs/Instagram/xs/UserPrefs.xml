@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{0AB6A9D9-82ED-4290-9362-FD964D3FEA46}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Instagram" expanded="True">
+            <Node name="Application" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.ItemProperties.UILayer PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B127B3D1-F073-46A1-8254-A9B77D657E28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
